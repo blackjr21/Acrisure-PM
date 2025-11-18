@@ -1,6 +1,6 @@
 # Resources
 
-This folder contains templates and references for the Claritev PM repository.
+This folder contains templates and references for the Acrisure PM repository.
 
 ---
 

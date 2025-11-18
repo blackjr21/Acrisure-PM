@@ -13,7 +13,7 @@
 | **Team/Department** | [Team name] |
 | **Reports To** | [Manager name] |
 | **Location/Timezone** | [City, timezone] |
-| **Email** | [email@claritev.com] |
+| **Email** | [email@company.com] |
 | **Slack** | [@username] |
 | **Preferred Contact** | [Slack / Email / Phone] |
 
@@ -121,7 +121,7 @@
 **Background:**
 - [Career history, previous companies]
 - [Education]
-- [How long at Claritev]
+- [How long at company]
 - [Previous roles]
 
 **Personal Life:** (if appropriate to note)

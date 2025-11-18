@@ -1,4 +1,4 @@
-# Claritev PM
+# Acrisure PM
 
 Project management repository for tracking programs, projects, meetings, and todos.
 
@@ -17,7 +17,7 @@ Project management repository for tracking programs, projects, meetings, and tod
 ## Repository Structure
 
 ```
-Claritev/
+Acrisure/
 ├── MASTER-TODOS.md              # Central list of all work across programs/projects
 ├── Background-Context/          # Project context and definitions
 ├── Programs/                    # Programs with nested projects

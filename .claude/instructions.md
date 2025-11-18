@@ -1,4 +1,4 @@
-# Claritev PM - Claude Code Instructions
+# Acrisure PM - Claude Code Instructions
 
 This repository is a project management system for tracking programs, projects, meetings, and todos. Follow these rules and conventions when working in this repository.
 
@@ -7,7 +7,7 @@ This repository is a project management system for tracking programs, projects, 
 ## Repository Structure Overview
 
 ```
-Claritev/
+Acrisure/
 ├── MASTER-TODOS.md              # Central list of ALL work - SINGLE SOURCE OF TRUTH
 ├── Programs/[Name]/             # Programs with nested projects
 │   ├── program-overview.md
