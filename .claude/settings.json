@@ -1,0 +1,47 @@
+{
+  "toolPermissions": {
+    "mode": "auto-approve",
+    "rules": [
+      {
+        "tool": "Bash",
+        "action": "allow",
+        "description": "Allow Bash for file operations and system commands"
+      },
+      {
+        "tool": "Task",
+        "action": "allow",
+        "description": "Allow agents (Task tool) to run automatically"
+      },
+      {
+        "tool": "Read",
+        "action": "allow",
+        "description": "Allow reading files"
+      },
+      {
+        "tool": "Write",
+        "action": "allow",
+        "description": "Allow writing files"
+      },
+      {
+        "tool": "Edit",
+        "action": "allow",
+        "description": "Allow editing files"
+      },
+      {
+        "tool": "Glob",
+        "action": "allow",
+        "description": "Allow file pattern matching"
+      },
+      {
+        "tool": "Grep",
+        "action": "allow",
+        "description": "Allow searching file contents"
+      }
+    ]
+  },
+  "agentPermissions": {
+    "allowedAgents": ["*"],
+    "allowedTools": ["*"],
+    "description": "Allow all agents to use all available tools"
+  }
+}

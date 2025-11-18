@@ -1,6 +1,5 @@
-# Claude Code (ignore internal agent data, but keep instructions)
-.claude/agents/
-.claude/**/agents/
+# Claude Code
+# (Custom agents are now tracked in git)
 
 # OS Files
 .DS_Store
